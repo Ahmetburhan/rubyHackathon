@@ -1,4 +1,4 @@
-# Learn Ruby Test-First
+# Ruby Hackathon
 
 ## Ruby Setup
 
